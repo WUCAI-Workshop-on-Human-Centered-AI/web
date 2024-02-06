@@ -2,8 +2,8 @@
 name: Welcome and introduction
 speakers:
     - Dino Pedreschi
-    - Giuseppe Iannaccone
     - Marco Conti
+    - Giuseppe Iannaccone
     - Andrea Ferrara
     - Roberto Scopigno
 ---
