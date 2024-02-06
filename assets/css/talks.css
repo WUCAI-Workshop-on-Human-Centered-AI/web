@@ -135,10 +135,6 @@
 .posters .poster:nth-child(n + 2) .location {
     display: none;
 }
- 
-.posters .poster:nth-child(1) .title::before {
-    content: 'Session: ';
-}
 
 .segments.posters {
     border: none;
