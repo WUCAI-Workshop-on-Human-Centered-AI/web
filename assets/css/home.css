@@ -6,7 +6,7 @@
 }
 
 .btn.streaming {
-    float: right;
+    /* float: right; */
     border-color: var(--fairred);
 }
 
