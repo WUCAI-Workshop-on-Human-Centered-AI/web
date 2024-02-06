@@ -80,7 +80,25 @@ Poster session dedicated to WP 1, 2, and 3.
       <span class="task">4</span>
     </span>
     <p class="presenter">Katerina Papagiannouli</p>
-  </div>  
+  </div>
+  
+  <div class="ui segment poster wp2">
+    <span class="title">Global optimality of Elman-type recurrent neural networks in the mean-field regime</span>
+    <span class="block">
+      <span class="wp">2</span>
+      <span class="task">4</span>
+    </span>
+    <p class="presenter">Andrea Agazzi</p>
+  </div>
+  
+  <div class="ui segment poster wp2">
+    <span class="title">Gaussian processes based data augmentation and expected signature for time series classification</span>
+    <span class="block">
+      <span class="wp">2</span>
+      <span class="task">4</span>
+    </span>
+    <p class="presenter">Marco Romito</p>
+  </div>
 </div>
 
 <div class="ui segments">
