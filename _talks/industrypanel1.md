@@ -1,7 +1,6 @@
 ---
-name: FAIR Industry panel
+name: The industrial and societal potential of human-centered AI
 speakers:
-    -
-categories:
-  - 
+  - 'Mario D Almo'
+  - 'Giuseppe Mazzotta'
 ---
