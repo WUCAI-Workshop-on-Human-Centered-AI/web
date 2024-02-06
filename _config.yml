@@ -156,8 +156,6 @@ conference:
         color: wp5
       - name: WP 6
         color: wp6
-      - name: keynote
-        color: keynote
       - name: Highlights
         color: keynote
       - name: posters
