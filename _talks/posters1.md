@@ -119,6 +119,15 @@ Poster session dedicated to WP 1, 2, and 3.
     </span>
     <p class="presenter">Giovanni Puccetti</p>
   </div>
+  
+  <div class="ui segment poster wp3">
+    <span class="title">VISIONE: A software tool for searching and browsing large video collections</span>
+    <span class="block">
+      <span class="wp">3</span>
+      <span class="task">5</span>
+    </span>
+    <p class="presenter">Nicola Messina</p>
+  </div>
 
   <div class="ui segment poster wp3">
     <span class="title">Explainability for Deep Graph Networks</span>
