@@ -158,6 +158,8 @@ conference:
         color: wp6
       - name: keynote
         color: keynote
+      - name: Highlights
+        color: keynote
       - name: posters
         color: posters
 

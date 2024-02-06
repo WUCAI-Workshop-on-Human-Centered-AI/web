@@ -12,6 +12,7 @@
     --wp6: #64a9dd;
 
     --keynote: #77b359;
+    --Highlights: #77b359;
     --posters: black;
 }
 
@@ -79,7 +80,8 @@ td.alert-wp6 {
     border-left: 5px solid  var(--wp6) !important;
 }
 
-td.alert-keynote {
+td.alert-keynote,
+td.alert-Highlights {
     border-left: 5px solid  var(--keynote) !important;
 }
 
