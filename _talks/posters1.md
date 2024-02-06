@@ -1,7 +1,7 @@
 ---
 name: First poster session
 categories:
-  - posters
+  - Posters
 ---
 
 Poster session dedicated to WP 1, 2, and 3.

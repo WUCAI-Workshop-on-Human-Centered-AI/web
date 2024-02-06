@@ -158,7 +158,7 @@ conference:
         color: wp6
       - name: Highlights
         color: keynote
-      - name: posters
+      - name: Posters
         color: posters
 
     # Hide icons on talk overview page

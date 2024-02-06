@@ -1,5 +1,7 @@
 ---
 name: Second poster session
+categories:
+  - Posters
 ---
 
 Poster session dedicated to WP 4, 5, and 6.
