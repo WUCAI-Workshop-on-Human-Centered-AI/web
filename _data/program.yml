@@ -45,7 +45,7 @@ days:
           time_start: '12:20'
           time_end: '12:40'
         
-        - name: TBA
+        - name: An overview of mathematical structures in learning models
           time_start: '12:40'
           time_end: '13:00'
 
