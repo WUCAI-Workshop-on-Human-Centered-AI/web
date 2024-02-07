@@ -56,6 +56,12 @@
     border-color: var(--fairpurple) !important;
 }
 
+a.btn.streaming:hover,
+a.btn.streaming:active {
+    background: var(--fairred) !important;
+    border-color: var(--fairred) !important;
+}
+
 /* fancy border bottom */
 .jumbotron {
     border-bottom: 5px solid transparent;
@@ -75,7 +81,7 @@
     position: relative;
 }
 
-p.registration {
+p#registration {
     font-weight: bold;
 }
 
@@ -90,7 +96,15 @@ p.registration {
 
 
 #bannercontainer img.banner {
+    /* position: absolute; */
+    border-radius: 4px;
+    opacity: 0.2;
+}
+
+#bannercontainer .display-3 {
     position: absolute;
+    top: 30px;
+    left: 37px;
 }
 
 #bannercontainer {
