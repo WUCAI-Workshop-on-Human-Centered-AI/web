@@ -128,11 +128,16 @@ p.presenter {
 }
 
 /* indenting single highlight */
-.posters .poster:nth-child(n + 2) {
+/* .posters .poster:nth-child(n + 2) {
     width: 90% !important;
     margin-left: 10% !important;
+} */
+
+.posters .poster:nth-child(n + 2) .column:nth-child(1) {
+    padding-left: 5%;
 }
- 
+
+
 .posters .poster:nth-child(n + 2) .from,
 .posters .poster:nth-child(n + 2) .to,
 .posters .poster:nth-child(n + 2) .location {
