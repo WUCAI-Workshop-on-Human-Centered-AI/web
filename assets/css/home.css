@@ -101,11 +101,13 @@ p#registration {
     opacity: 0.2;
 }
 
-/* #bannercontainer .display-3 {
-    position: absolute;
-    top: 30px;
-    left: 37px;
-} */
+#bannercontainer .display-3 {
+    background: url(/web/assets/css/images/banner25.png);
+    padding: 50px 20px;
+    background-position-y: center;
+    background-position-x: center;
+    background-size: contain;
+}
 
 #bannercontainer {
     overflow: hidden;
