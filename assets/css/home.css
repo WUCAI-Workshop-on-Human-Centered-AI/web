@@ -118,6 +118,10 @@ p#registration {
     position: relative;
 }
 
+.jumbotron {
+    padding-top: 0px !important;
+}
+
 p.inlinedescription {
     font-style: italic;
     font-size: large;
