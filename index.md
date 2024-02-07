@@ -8,10 +8,11 @@ The first workshop on this series is held February 19-20, 2024, in Pisa, Italy, 
 The workshop is in partnership with the [Humane-AI-Network project](humane-ai.eu/).
 
 
-
 The aim of the workshop is to foster further broad collaboration in the field of Human-centered AI. The field is driven by developments in AI, but it also requires fundamentally new approaches and solutions. Thus, we leverage collaborations across research domains such as AI, Human-Computer Interaction, cognitive and social sciences, philosophy & ethics, complex systems, among others.
 
+
+<p id="registration">
 Registration to the workshop is free but required for onsite participants.
 Please register by Thursday 15 February, 2024.
 Streaming for online participation is provided.
-
+</p>
