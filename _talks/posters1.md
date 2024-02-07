@@ -44,7 +44,7 @@ Poster session dedicated to WP 1, 2, and 3.
   </div>
 
   <div class="ui segment poster wp1">
-    <span class="title">Frank</span>
+    <span class="title">A Frank System for Hybrid Decision Making</span>
     <span class="block">
       <span class="wp">1</span>
       <span class="task">3</span>
