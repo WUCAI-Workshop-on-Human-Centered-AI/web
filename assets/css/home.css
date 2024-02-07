@@ -118,6 +118,16 @@ p#registration {
     position: relative;
 }
 
+p.inlinedescription {
+    font-style: italic;
+    font-size: large;
+    margin-bottom: 0;
+}
+
+p.lead {
+    display: none;
+}
+
 /* logos */
 div.images img.ui.small.centered.image {
     display: block;
