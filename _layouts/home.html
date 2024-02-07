@@ -4,11 +4,11 @@
 
 <div class="jumbotron">
   <div id="bannercontainer">
-    <!-- <img
+    <img
     class="banner"
     src="{{ site.baseurl }}/assets/css/images/banner.jpg"
     alt=""
-    > -->
+    >
     <h1 class="display-3">
       {% if site.conference.main.logo.img %}
       <img src="{{ site.conference.main.logo.img | prepend: '/assets/images/' | prepend: site.baseurl }}" class="w-75 d-none d-md-inline" alt="{{ site.title }}" />
@@ -20,7 +20,7 @@
       {% endif %}
     </div>
   </h1>
-
+  
   {% if site.description != none %}
   <p class="lead">
     <img
@@ -29,7 +29,10 @@
     alt=""
     >
     {{ site.description | markdownify | replace: '<p>', '<p class="lead">' }}
-    </p>
+    Aula Magna, Polo Fibonacci, University of Pisa.
+    Pisa, 19-20 February 2024.
+    Organized by FAIR - "Future AI Research" partnership in partnership with the Humane-AI network of excellence.
+  </p>
     {% endif %}
     
     <hr class="my-4">

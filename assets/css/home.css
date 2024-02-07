@@ -98,15 +98,16 @@ p#registration {
 #bannercontainer img.banner {
     /* position: absolute; */
     border-radius: 4px;
-    opacity: 0.2;
+    /* opacity: 0.2; */
 }
 
 #bannercontainer .display-3 {
-    background: url(/web/assets/css/images/banner25.png);
+    /* background: url(/web/assets/css/images/banner25.png);
     padding: 50px 20px;
     background-position-y: center;
-    background-position-x: center;
+    background-position-x: center; */
     background-size: contain;
+    font-size: 3.5rem
 }
 
 #bannercontainer {
