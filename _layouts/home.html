@@ -3,9 +3,10 @@
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/home.css"/>
 
 <div class="jumbotron">
+    <div id="bannercontainer">
     <img
-      class="demo-bg"
-      src="{{ site.baseurl }}/assets/css/images/links_fair.svg"
+      class="banner"
+      src="{{ site.baseurl }}/assets/css/images/banner.jpg"
       alt=""
     >
     <h1 class="display-3">
@@ -17,7 +18,13 @@
       {% else %}
         {{ site.title }}
       {% endif %}
+    </div>
     </h1>
+    <img
+      class="demo-bg"
+      src="{{ site.baseurl }}/assets/css/images/links_fair.svg"
+      alt=""
+    >
     {% if site.description != none %}
       <p class="lead">
         {{ site.description | markdownify | replace: '<p>', '<p class="lead">' }}

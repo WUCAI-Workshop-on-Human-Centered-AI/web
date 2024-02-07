@@ -88,6 +88,15 @@ p.registration {
     height: auto;
 }
 
+
+#bannercontainer img.banner {
+    position: absolute;
+}
+
+#bannercontainer {
+    overflow: hidden;
+}
+
 .jumbotron > .display-3 {
     position: relative;
 }
