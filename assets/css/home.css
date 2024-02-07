@@ -101,11 +101,11 @@ p#registration {
     opacity: 0.2;
 }
 
-#bannercontainer .display-3 {
+/* #bannercontainer .display-3 {
     position: absolute;
     top: 30px;
     left: 37px;
-}
+} */
 
 #bannercontainer {
     overflow: hidden;
