@@ -26,6 +26,15 @@ Poster session dedicated to WP 1, 2, and 3.
   </div>
   
   <div class="ui segment poster wp1">
+    <span class="title">Generative Models for Decision Trees</span>
+    <span class="block">
+      <span class="wp">1</span>
+      <span class="task">1</span>
+    </span>
+    <p class="presenter">Mattia Setzu</p>
+  </div>
+  
+  <div class="ui segment poster wp1">
     <span class="title">Understanding and Exploiting the Latent Space to Improve Machine Learning models eXplainability</span>
     <span class="block">
       <span class="wp">1</span>
