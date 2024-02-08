@@ -17,15 +17,6 @@ Poster session dedicated to WP 1, 2, and 3.
   </div>
   
   <div class="ui segment poster wp1">
-    <span class="title">PyFlowML: Enhancing ML-based Decision Making through Visual Language</span>
-    <span class="block">
-      <span class="wp">1</span>
-      <span class="task">4</span>
-    </span>
-    <p class="presenter">Tommaso Turchi</p>
-  </div>
-  
-  <div class="ui segment poster wp1">
     <span class="title">Generative Models for Decision Trees</span>
     <span class="block">
       <span class="wp">1</span>
@@ -59,6 +50,15 @@ Poster session dedicated to WP 1, 2, and 3.
       <span class="task">3</span>
     </span>
     <p class="presenter">Federico Mazzoni</p>
+  </div>
+
+  <div class="ui segment poster wp1">
+    <span class="title">PyFlowML: Enhancing ML-based Decision Making through Visual Language</span>
+    <span class="block">
+      <span class="wp">1</span>
+      <span class="task">4</span>
+    </span>
+    <p class="presenter">Tommaso Turchi</p>
   </div>
 </div>
 
@@ -112,30 +112,21 @@ Poster session dedicated to WP 1, 2, and 3.
 
 <div class="ui segments">
   <div class="ui segment poster wp3">
-    <span class="title">Assessing Language-and-Vision Language Models on Event Plausibility</span>
+    <span class="title">Continual Learning & Compositionality for Sustainable AI</span>
     <span class="block">
       <span class="wp">3</span>
-      <span class="task">6</span>
+      <span class="task">2</span>
     </span>
-    <p class="presenter">Maria Cassese</p>
-  </div>
-
-  <div class="ui segment poster wp3">
-    <span class="title">Fake news may be coming in your language: A case study on Italian</span>
-    <span class="block">
-      <span class="wp">3</span>
-      <span class="task">6</span>
-    </span>
-    <p class="presenter">Giovanni Puccetti</p>
+    <p class="presenter">Luigi Quarantiello</p>
   </div>
   
   <div class="ui segment poster wp3">
-    <span class="title">VISIONE: A software tool for searching and browsing large video collections</span>
+    <span class="title">Towards the Development of Text-Image Patent Datasets for Enhancing Engineering Design</span>
     <span class="block">
       <span class="wp">3</span>
-      <span class="task">5</span>
+      <span class="task">3</span>
     </span>
-    <p class="presenter">Nicola Messina</p>
+    <p class="presenter">Vito Giordano, Marco Consoloni</p>
   </div>
 
   <div class="ui segment poster wp3">
@@ -148,39 +139,12 @@ Poster session dedicated to WP 1, 2, and 3.
   </div>
 
   <div class="ui segment poster wp3">
-    <span class="title">Continual Learning & Compositionality for Sustainable AI</span>
+    <span class="title">VISIONE: A software tool for searching and browsing large video collections</span>
     <span class="block">
       <span class="wp">3</span>
-      <span class="task">2</span>
+      <span class="task">5</span>
     </span>
-    <p class="presenter">Luigi Quarantiello</p>
-  </div>
-  
-  <div class="ui segment poster wp3">
-    <span class="title">Social bias anaysis in text-to-image Large Language Models</span>
-    <span class="block">
-      <span class="wp">3</span>
-      <span class="task">6</span>
-    </span>
-    <p class="presenter">Alessandro Bondielli, Lucia Passaro</p>
-  </div>
-  
-  <div class="ui segment poster wp3">
-    <span class="title">What do Large Language Models know about causality?</span>
-    <span class="block">
-      <span class="wp">3</span>
-      <span class="task">6</span>
-    </span>
-    <p class="presenter">Martina Miliani, Alessandro Lenci</p>
-  </div>
-  
-  <div class="ui segment poster wp3">
-    <span class="title">Towards the Development of Text-Image Patent Datasets for Enhancing Engineering Design</span>
-    <span class="block">
-      <span class="wp">3</span>
-      <span class="task">3</span>
-    </span>
-    <p class="presenter">Vito Giordano, Marco Consoloni</p>
+    <p class="presenter">Nicola Messina</p>
   </div>
 
   <div class="ui segment poster wp3">
@@ -201,5 +165,39 @@ Poster session dedicated to WP 1, 2, and 3.
     <p class="presenter">Fabrizio Sebastiani</p>
   </div>
 
+  <div class="ui segment poster wp3">
+    <span class="title">Assessing Language-and-Vision Language Models on Event Plausibility</span>
+    <span class="block">
+      <span class="wp">3</span>
+      <span class="task">6</span>
+    </span>
+    <p class="presenter">Maria Cassese</p>
+  </div>
+
+  <div class="ui segment poster wp3">
+    <span class="title">Fake news may be coming in your language: A case study on Italian</span>
+    <span class="block">
+      <span class="wp">3</span>
+      <span class="task">6</span>
+    </span>
+    <p class="presenter">Giovanni Puccetti</p>
+  </div>
   
+  <div class="ui segment poster wp3">
+    <span class="title">Social bias anaysis in text-to-image Large Language Models</span>
+    <span class="block">
+      <span class="wp">3</span>
+      <span class="task">6</span>
+    </span>
+    <p class="presenter">Alessandro Bondielli, Lucia Passaro</p>
+  </div>
+  
+  <div class="ui segment poster wp3">
+    <span class="title">What do Large Language Models know about causality?</span>
+    <span class="block">
+      <span class="wp">3</span>
+      <span class="task">6</span>
+    </span>
+    <p class="presenter">Martina Miliani, Alessandro Lenci</p>
+  </div>  
 </div>

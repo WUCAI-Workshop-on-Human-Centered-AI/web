@@ -8,6 +8,16 @@ Poster session dedicated to WP 4, 5, and 6.
 
 <div class="ui segments">
   <div class="ui segment poster wp4">
+    <span class="title">Human-AI coevolution in LLMs</span>
+    <span class="block">
+      <span class="wp">4</span>
+      <span class="task">1</span>
+    </span>
+    <p class="presenter">Daniele Gambetta</p>
+    <p class="presenter">Gizem Gezici</p>
+  </div>
+
+  <div class="ui segment poster wp4">
     <span class="title">The impact of AI on labour demand and workforce management</span>
     <span class="block">
       <span class="wp">4</span>
@@ -33,16 +43,6 @@ Poster session dedicated to WP 4, 5, and 6.
     </span>
     <p class="presenter">Michela Lazzeroni</p>
     <p class="presenter">Antonello Romano</p>
-  </div>
-
-  <div class="ui segment poster wp4">
-    <span class="title">Human-AI coevolution in LLMs</span>
-    <span class="block">
-      <span class="wp">4</span>
-      <span class="task">1</span>
-    </span>
-    <p class="presenter">Daniele Gambetta</p>
-    <p class="presenter">Gizem Gezici</p>
   </div>
 
   <div class="ui segment poster wp4">
@@ -124,6 +124,23 @@ Poster session dedicated to WP 4, 5, and 6.
     <p class="presenter">Elio Grande</p>
   </div>
   <div class="ui segment poster wp6">
+    <span class="title">Attacking Differential Privacy in Image Processing with Denoising Methodologies</span>
+    <span class="block">
+      <span class="wp">6</span>
+      <span class="task">2</span>
+    </span>
+    <p class="presenter">Roberto Pellungrini, Anna Monreale </p>
+  </div>
+  
+  <div class="ui segment poster wp6">
+    <span class="title">Attack detection in cyber-physical sytems with AI</span>
+    <span class="block">
+      <span class="wp">6</span>
+      <span class="task">2</span>
+    </span>
+    <p class="presenter">Cinzia Bernardeschi, Alessio Vivani</p>
+  </div>
+  <div class="ui segment poster wp6">
     <span class="title">Explaining the privacy risks in mobility </span>
     <span class="block">
       <span class="wp">6</span>
@@ -138,21 +155,5 @@ Poster session dedicated to WP 4, 5, and 6.
       <span class="task">4</span>
     </span>
     <p class="presenter">Gizem Gezici, Luca Pappalardo</p>
-  </div>  
-  <div class="ui segment poster wp6">
-    <span class="title">Attacking Differential Privacy in Image Processing with Denoising Methodologies</span>
-    <span class="block">
-      <span class="wp">6</span>
-      <span class="task">2</span>
-    </span>
-    <p class="presenter">Roberto Pellungrini, Anna Monreale </p>
-  </div>  
-  <div class="ui segment poster wp6">
-    <span class="title">Attack detection in cyber-physical sytems with AI</span>
-    <span class="block">
-      <span class="wp">6</span>
-      <span class="task">2</span>
-    </span>
-    <p class="presenter">Cinzia Bernardeschi, Alessio Vivani</p>
   </div>
 </div>
