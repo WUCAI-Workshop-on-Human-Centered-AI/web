@@ -53,27 +53,27 @@ days:
           time_start: '14:00'
           time_end: '14:20'
         
-        - name: 'ViLMA: A Zero-Shot Benchmark for Linguistic and Temporal Grounding in Video-Language Models'
+        - name: Pervasive continually learning RNNs with guarantees
           time_start: '14:20'
           time_end: '14:30'
         
-        - name: Advances in node classification with efficient models for learning on graphs
+        - name: Lifelong learning for socially and environmentally sustainable AI
           time_start: '14:30'
           time_end: '14:40'
         
-        - name: Pervasive continually learning RNNs with guarantees
+        - name: Advances in node classification with efficient models for learning on graphs
           time_start: '14:40'
           time_end: '14:50'
         
-        - name: What do Large Language Models know about engineering relations?
+        - name: 'ViLMA: A Zero-Shot Benchmark for Linguistic and Temporal Grounding in Video-Language Models'
           time_start: '14:50'
           time_end: '15:00'
         
-        - name: Lifelong learning for socially and environmentally sustainable AI
+        - name: Learning to quantify graph nodes
           time_start: '15:00'
           time_end: '15:10'
         
-        - name: Learning to quantify graph nodes
+        - name: What do Large Language Models know about engineering relations?
           time_start: '15:10'
           time_end: '15:20'
         
@@ -102,23 +102,23 @@ days:
           time_start: '09:30'
           time_end: '09:45'
         
-        - name: 'Data-driven discrimination. How Artificial Intelligence can (re)produce spatial asymmetries in urban space.'
+        - name: 'Hybrid human-AI decision making'
           time_start: '09:45'
           time_end: '10:00'
 
-        - name: 'Ranking Matters: Addressing Male Advantage in Educational YouTube Videos'
+        - name: 'Mass media impact on opinion evolution in biased digital environments'
           time_start: '10:00'
           time_end: '10:15'
           
-        - name: 'Renewable energy sources planning at the regional level: a case study in Italy'
+        - name: 'Data-driven discrimination. How Artificial Intelligence can (re)produce spatial asymmetries in urban space.'
           time_start: '10:15'
           time_end: '10:30'
 
-        - name: 'Mass media impact on opinion evolution in biased digital environments'
+        - name: 'Ranking Matters: Addressing Male Advantage in Educational YouTube Videos'
           time_start: '10:30'
           time_end: '10:45'
 
-        - name: 'Hybrid human-AI decision making'
+        - name: 'Renewable energy sources planning at the regional level: a case study in Italy'
           time_start: '10:45'
           time_end: '11:00'
         
