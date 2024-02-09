@@ -133,12 +133,12 @@ Poster session dedicated to WP 4, 5, and 6.
   </div>
   
   <div class="ui segment poster wp6">
-    <span class="title">Attack detection in cyber-physical sytems with AI</span>
+    <span class="title">Training robust neural networks using model-based simulation</span>
     <span class="block">
       <span class="wp">6</span>
       <span class="task">2</span>
     </span>
-    <p class="presenter">Cinzia Bernardeschi, Alessio Vivani</p>
+    <p class="presenter">Federico Rossi, Alessio Vivani</p>
   </div>
   <div class="ui segment poster wp6">
     <span class="title">Explaining the privacy risks in mobility </span>
