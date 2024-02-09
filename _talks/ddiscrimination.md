@@ -1,5 +1,5 @@
 ---
-name: 'Data-driven discrimination. How Artificial Intelligence can (re)produce spatial asymmetries in urban space.'
+name: 'Data-driven urbanism. How Artificial Intelligence can (re)produce spatial asymmetries in the contemporary city'
 speakers:
   - Michela Lazzeroni
   - Antonello Romano
