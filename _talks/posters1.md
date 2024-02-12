@@ -144,7 +144,7 @@ Poster session dedicated to WP 1, 2, and 3.
       <span class="wp">3</span>
       <span class="task">5</span>
     </span>
-    <p class="presenter">Nicola Messina</p>
+    <p class="presenter">Andrea Pedrotti</p>
   </div>
 
   <div class="ui segment poster wp3">
