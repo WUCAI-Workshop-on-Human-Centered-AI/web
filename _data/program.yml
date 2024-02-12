@@ -65,7 +65,7 @@ days:
           time_start: '14:40'
           time_end: '14:50'
         
-        - name: 'ViLMA: A Zero-Shot Benchmark for Linguistic and Temporal Grounding in Video-Language Models'
+        - name: 'VISIONE: A software tool for searching and browsing large video collections'
           time_start: '14:50'
           time_end: '15:00'
         

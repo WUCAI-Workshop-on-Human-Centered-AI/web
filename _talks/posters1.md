@@ -139,7 +139,7 @@ Poster session dedicated to WP 1, 2, and 3.
   </div>
 
   <div class="ui segment poster wp3">
-    <span class="title">VISIONE: A software tool for searching and browsing large video collections</span>
+    <span class="title">ViLMA: A Zero-Shot Benchmark for Linguistic and Temporal Grounding in Video-Language Models</span>
     <span class="block">
       <span class="wp">3</span>
       <span class="task">5</span>
