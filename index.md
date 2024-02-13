@@ -8,7 +8,8 @@ The First Workshop on Human-centered Artificial Intelligence focuses on the stud
 The first workshop on this series is organized in Pisa by the spoke “Human-centered AI” of the Next Generation EU (PNRR) partnership [FAIR - Future Artificial Intelligence Research](https://future-ai-research.it/). The workshop presents the research vision, approach and outcomes of the multidisciplinary critical mass of researchers of the FAIR Spoke, across University of Pisa, the National Research Council and Scuola Normale Superiore. The workshop is in partnership with the [Humane-AI-Network project](https://www.humane-ai.eu/ ).
 
 
-The aim of the workshop is to foster further broad collaboration in the field of Human-centered AI. The field is driven by developments in AI, but it also requires fundamentally new approaches and solutions. Thus, we leverage collaborations across research domains such as AI, Human-Computer Interaction, cognitive and social sciences, philosophy & ethics, law, and complex systems, among others.
+The aim of the workshop is to foster further broad collaboration in the field of Human-centered AI, both within the scientific community and together with industry and the public sector.
+The field is driven by developments in AI, but it also requires fundamentally new approaches and solutions. Thus, we leverage collaborations across research domains such as AI, Human-Computer Interaction, cognitive and social sciences, philosophy & ethics, law, and complex systems, among others.
 
 
 <p id="registration">
