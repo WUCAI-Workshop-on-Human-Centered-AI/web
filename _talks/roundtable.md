@@ -1,5 +1,5 @@
 ---
-name: "Round table of WP leaders: Human-centered AI and Generative AI: what's next?"
+name: "Round table of WP leaders: Human-centered AI, Generative AI and EU's AI Act: what's next?"
 categories:
     - Highlights
 ---
