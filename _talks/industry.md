@@ -4,7 +4,6 @@ categories:
     - Highlights
 ---
 The session will be held in Italian.
-Session introduced by Alessandra Nardini, Assessora ai rapporti con Università e Ricerca della Regione Toscana.
 The session will see the participation of
 - Andrea Pasqui, CEO Holocron
 - Fabio Severino, CTO Geckosoft
