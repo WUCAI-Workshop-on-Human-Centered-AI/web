@@ -12,4 +12,4 @@ The session will see the participation of
 - Camilla Sovani, project manager FAIR, UNIPI
 - Marta Rapallini, project manager Fondazione FAIR
 
-Session moderated by Dino Pedreschi.
+Session moderated by Dino Pedreschi and Francesco Marcelloni.
