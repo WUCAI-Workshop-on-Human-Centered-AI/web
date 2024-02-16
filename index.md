@@ -13,7 +13,5 @@ The field is driven by developments in AI, but it also requires fundamentally ne
 
 
 <p id="registration">
-Registration to the workshop is free but required for onsite participants.
-Please register by Thursday 15 February, 2024.
-Streaming for online participation is provided.
+Streaming for online participation is provided below.
 </p>
