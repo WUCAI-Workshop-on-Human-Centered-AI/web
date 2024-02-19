@@ -15,14 +15,12 @@
     border-color: black;
 }
 
-.btn-outline-primary:disabled,
-.btn.streaming {
+.btn-outline-primary:disabled {
     color: darkgray;
     outline-color: darkgray;
 }
 
-.btn-outline-primary:disabled,
-.btn.streaming {
+.btn-outline-primary:disabled {
     border-color: darkgray;
 }
 
