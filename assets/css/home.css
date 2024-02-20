@@ -8,6 +8,8 @@
 .btn.streaming {
     /* float: right; */
     border-color: var(--fairred);
+    background: var(--fairred);
+    color: white;
 }
 
 .btn-outline-primary {
@@ -56,7 +58,9 @@
 
 a.btn.streaming:hover,
 a.btn.streaming:active {
-    background: var(--fairred) !important;
+/*     background: var(--fairred) !important; */
+    background: white !important;
+    color: var(--fairred) !important;
     border-color: var(--fairred) !important;
 }
 
